@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jmf858g.dothome.co.kr/sitemap.xml
